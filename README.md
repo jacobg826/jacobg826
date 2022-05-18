@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Jacob Gervais
-- 👀 I’m interested in Embedded Systems, Mobile App development, and Digital Circuit design
-- 🌱 I’m currently learning React JS
-- 📫 Email me at gervais.jacob@gmail.com
+Hi, Im Jacob
+
+I'm a software developer and embedded systems engineer. 
+
+I have expereince with android mobile app development, creating automated test scripts for embedded systems, and building websites. 
 
 <!---
 jacobg826/jacobg826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
