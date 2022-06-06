@@ -5,7 +5,9 @@ I'm a software developer and embedded systems engineer.
 
 I have expereince with android mobile app development, building websites, writing web scrapers, and creating automated test scripts for embedded systems.
 
-You can view my resume [Here](https://docs.google.com/document/d/14ieLnemzck-tZVOp8IfyDz_6AmnlGg9i6GiNd-kTVGQ/edit?usp=sharing)
+You can check out my website [Here](https://jacobg826.github.io/Portfolio-Website/)
+
+And you can view my resume [Here](https://docs.google.com/document/d/14ieLnemzck-tZVOp8IfyDz_6AmnlGg9i6GiNd-kTVGQ/edit?usp=sharing)
 
 # Projects 
 
