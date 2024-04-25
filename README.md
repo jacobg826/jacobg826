@@ -1,79 +1,64 @@
-# Introduction
-Hi, Im Jacob
+# INTRODUCTION
 
-I'm a software developer and embedded systems engineer. 
+Hi I'm Jacob. 
 
-I have expereince with android mobile app development, building websites, writing web scrapers, and creating automated test scripts for embedded systems.
+I am a software developer and an embedded systems engineer. 
 
-You can check out my website [Here](https://jacobg826.github.io/Portfolio-Website/)
+# SUMMARY
 
-And you can view my resume [Here](https://docs.google.com/document/d/14ieLnemzck-tZVOp8IfyDz_6AmnlGg9i6GiNd-kTVGQ/edit?usp=sharing)
+-   Skilled in web development as shown through working with NodeJS at 99 Spokes and through many personal projects that utilize React, Typescript, CSS, and HTML.
+-   Strong embedded systems skills gained through professional experience at PACCAR, projects, and coursework that shows a firm knowledge of CAN, LIN, UART, I2C, and SPI protocols; ARM processors; and computer architecture.
+-   Experienced in android mobile development illustrated through my professional experience at Faithlife.
+-   Skilled in TypeScript, Python, C#, Kotlin, Java, C, and JavaScript, cultivated through professional roles at PACCAR, 99 Spokes, and Faithlife; as well as coursework and personal projects.
+-   Strong technical communication skills honed through professional roles at PACCAR, where I authored comprehensive technical defect reports, and as an educator at a bike shop, where I effectively communicated technical topics to diverse audiences.
 
-# Projects 
+# EDUCATION
 
-This is a list of projects you can find on my repository. 
+## University of Washington, Seattle, WA March 2021
 
-## WeatherApp
+Bachelor of Science, Electrical Engineering GPA: 3.77
 
-[Demo the project](https://jacobg826.github.io/WeatherApp)
+Relevant coursework: Data structures and algorithms, Embedded Systems Design Capstone, Digital Circuit Design, Computer Architecture, Control Theory, Digital Signal Processing.
 
-[View the code](https://github.com/jacobg826/WeatherApp)
+# RELEVANT EXPERIENCE
 
+## Embedded Systems Verification Engineer, PACCAR - Mount Vernon, WA 10/2021 to present
 
+-   Led the development of a language server using Typescript and NodeJS for PACCAR's internal programming language. Integrated time-saving functionalities including a formatter, go-to-definition, and intellisense. leveraged the language server to create a custom VS Code extension resulting in annual cost savings exceeding $500,000.
+-   Integrated a C# plugin into PACCAR's internal .NET application for automating HIL sound testing. This extension enabled users to generate sound recordings during test script execution, which resulted in greater automation capabilities for the HIL test team.
+-   Generated test scripts to automate component level HIL testing for the PACCAR VECU and Digital Display, and reported critical defects against software and documentation.
+-   Developed Python scripts to automate repetitive tasks, such as identifying document discrepancies, updating legacy test syntax, and generating test scripts.
 
-## Tic Tac Toe
+## Software Developer, 99 Spokes - Bellingham, WA 5/2022 to 11/2022
 
-[Demo the project](https://jacobg826.github.io/tic-tac-toe)
+-   Engineered custom web scrapers using Typescript and NodeJS, to extract data from bicycle manufacturing websites. This data is aggregated in the 99 Spokes website, allowing users to effortlessly explore and compare bicycles.
 
-[View the code](https://github.com/jacobg826/tic-tac-toe)
+## Software Developer Intern, Faithlife - Bellingham, WA 6/2020 to 9/2020
 
+-   Developed an android mobile app for Faithlife’s social media product that allows members of churches to communicate.
+-   Authored high quality Kotlin and XML code for various features of the app while participating in daily Scrum meetings and communicating across teams to designers and web developers.
+-   Delivered impactful features to the mobile app such as automated message suggestions, and a directory feature to search and contact members of your church.
 
+## Lead Embedded Systems Engineer, Senior Design Capstone Project - Seattle, WA 1/2021 - 3/2021
 
-## Etch-A-Sketch
+-   Led a small remote team of 5 engineers to develop an automated rock climbing belay system that allows climbers to ascend walls without a human belayer.
+-   Served as the team lead by planning milestones, managing time, and assigning tasks; while solving difficult and ambiguous problems.
+-   Implemented a prototype design of the belay system on schedule by writing Python and C code and utilizing embedded system technologies such as UART, I2C, SPI, and ADCs.
 
-[Demo the project](https://jacobg826.github.io/EtchASketch)
+# PROJECT EXPERIENCE
 
-[View the code](https://github.com/jacobg826/EtchASketch)
+## Software Developer, RouteRanger - Bellingham, WA
 
+-   Working to develop a dynamic web application that enables users to create, share, and organize hiking routes, enhancing the trip planning experiences for outdoor enthusiasts.
+-   Leveraged expertise in TypeScript, React and Tailwind CSS to architect the frontend interface, while implementing backend functionality and user authentication through Firebase.
 
+## Software Developer, Weather App- Bellingham, WA
 
-## Green News
+-   Designed and developed a Weather App website using Javascript, HTML, CSS, to fetch data from an API and display it to the user.
 
-[Demo the project](https://earthnews.netlify.app)
+# OTHER EXPERIENCE
 
-[View the code](https://github.com/jacobg826/green-news)
+## Bike Mechanic, ASUW Bike Shop, University of Washington - Seattle, WA 9/2018 to 3/2021
 
-
-
-## Belay-Hu
-
-[Demo Video](https://www.youtube.com/watch?v=drQGYvJ-_U8&ab_channel=JacobGervais)
-
-[View the code](https://github.com/jacobg826/BelayBot)
-
-
-
-# Professional Experience
-
-Here is a brief list of my professional experience. 
-
-## PACCAR
-
-Embedded Systems Verification Engineer.
-
-## 99 Spokes
-
-Software Developer.
-
-[99 Spokes Website](https://99spokes.com/)
-
-## Faithlife 
-
-Software Developer Intern. 
-
-[Faithlife Mobile App](https://play.google.com/store/apps/details?id=com.faithlife.mobile&hl=en_US&gl=US)
-
-<!---
-jacobg826/jacobg826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-   Operated as a bike mechanic at the ASUW bike stop and synthesized unique solutions to difficult bike repairs that I encountered.
+-   Communicated concepts of bicycle repair and maintenance to a non technical audience.
